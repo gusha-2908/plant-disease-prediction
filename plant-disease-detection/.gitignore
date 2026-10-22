@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+data_raw/
+venv/
+archive.zip
